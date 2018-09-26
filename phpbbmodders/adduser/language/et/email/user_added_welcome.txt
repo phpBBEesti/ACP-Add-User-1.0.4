@@ -1,0 +1,19 @@
+Teema: Teile on lisatud kasutaja lehele "{SITENAME}"
+
+{WELCOME_MSG}
+
+Palun hoidke seda kirja alles. Teie kontoandmed on järgmised:
+
+----------------------------
+Kasutajanimi: {USERNAME}
+
+Foorumi URL: {U_BOARD}
+
+Parool: {PASSWORD}
+----------------------------
+
+Teie parool on meie andmebaasis turvaliselt salvestatud ja seda ei saa alla laadida. Kui unustate oma parooli, saate selle lähtestada oma kontoga seotud e-posti aadressi kaudu.
+
+Soovitame koheselt muuta oma prool peale seda, kui olete foorumisse loginud.
+
+{EMAIL_SIG}
